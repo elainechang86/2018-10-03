@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 I am second
 I typed
+=======
+I am third
+>>>>>>> third
